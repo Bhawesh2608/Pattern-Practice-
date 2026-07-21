@@ -178,3 +178,16 @@ A collection of logic-building pattern programs.
     *       * 
     * * * * * 
 
+### 14. Right Half Pyramid
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Right_Half_Pyramid.c) |
+
+    *         
+    * *       
+    * * *     
+    * * * *   
+    * * * * * 
+
+
