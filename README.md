@@ -190,4 +190,40 @@ A collection of logic-building pattern programs.
     * * * *   
     * * * * * 
 
+### 15. Right Half Reverse Pyramid
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Right_Half_Reverse_Pyramid) |
+
+    * * * * * 
+    * * * *   
+    * * *     
+    * *       
+    * 
+
+### 16. Left Half Pyramid
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Left_Half_Pyramid) |
+
+            * 
+          * * 
+        * * * 
+      * * * * 
+    * * * * * 
+
+### 17. Left_Half_Reverse_Pyramid
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Left_Half_Reverse_Pyramid)|
+
+    * * * * * 
+      * * * * 
+        * * * 
+          * * 
+            * 
+
 
