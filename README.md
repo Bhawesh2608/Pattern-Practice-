@@ -55,3 +55,17 @@ A collection of logic-building pattern programs.
     *   *   *   * 
       *       *   
     *           * 
+
+
+### 4. Diamond Pattern
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Diamond.c)|
+
+        *         
+       * *       
+      * * *     
+     * * * *   
+    * * * * *
+
