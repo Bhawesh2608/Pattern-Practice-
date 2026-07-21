@@ -82,3 +82,27 @@ A collection of logic-building pattern programs.
       5 4 3 2 1 2 3 4 5   
     6 5 4 3 2 1 2 3 4 5 6 
 
+### 6. Rhombus 
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Rhombus.c) |
+
+    * * * * * * 
+      * * * * * * 
+        * * * * * * 
+          * * * * * * 
+            * * * * * * 
+
+### 7. Zero-One 
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Zero-One.c) |
+
+    1           
+    0 1         
+    1 0 1       
+    0 1 0 1     
+    1 0 1 0 1   
+    0 1 0 1 0 1 
