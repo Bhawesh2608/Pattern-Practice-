@@ -75,7 +75,7 @@ A collection of logic-building pattern programs.
 | :--- |
 | [View Code](Patterns_code/PalinDrome_Triangular.c)|
 
-                1           
+              1           
             2 1 2         
           3 2 1 2 3       
         4 3 2 1 2 3 4     
