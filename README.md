@@ -40,3 +40,18 @@ A collection of logic-building pattern programs.
 * *
 *
 ```
+
+
+### 3. Butter Fly Star
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/ButterFly_Star.c)|
+
+    *           * 
+      *       *   
+    *   *   *   * 
+      *   *   *   
+    *   *   *   * 
+      *       *   
+    *           * 
