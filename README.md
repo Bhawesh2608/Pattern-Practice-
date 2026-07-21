@@ -106,3 +106,52 @@ A collection of logic-building pattern programs.
     0 1 0 1     
     1 0 1 0 1   
     0 1 0 1 0 1 
+
+### 8. Number Triangular
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Number_Triangular.c)|
+
+        1         
+       2 2       
+      3 3 3     
+     4 4 4 4   
+    5 5 5 5 5
+
+### 9. Number Increasing Pyramid
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Number_Increasing_Pyramid.c) |
+
+    1 
+    1 2 
+    1 2 3 
+    1 2 3 4 
+    1 2 3 4 5 
+
+### 10. Number Increasing Reverse Pyramid
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Number_Increasing_Reverse_Pyramid.c) |
+
+    1 2 3 4 5 
+    1 2 3 4   
+    1 2 3     
+    1 2       
+    1  
+
+### 11. Number Changing Reverse Pyramid
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Number_Changing_Pyramid.c) |
+
+    1 
+    2  3 
+    4  5  6 
+    7  8  9 10 
+
+
