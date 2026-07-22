@@ -85,7 +85,7 @@ A collection of logic-building pattern programs.
        * *       
         *        
 
-### 5. PalinDrome Triangular 
+### 6. PalinDrome Triangular 
 
 | Code |
 | :--- |
@@ -98,7 +98,7 @@ A collection of logic-building pattern programs.
       5 4 3 2 1 2 3 4 5   
     6 5 4 3 2 1 2 3 4 5 6 
 
-### 6. Rhombus 
+### 7. Rhombus 
 
 | Code |
 | :--- |
@@ -110,7 +110,7 @@ A collection of logic-building pattern programs.
           * * * * * * 
             * * * * * * 
 
-### 7. Zero-One 
+### 8. Zero-One 
 
 | Code |
 | :--- |
@@ -123,7 +123,7 @@ A collection of logic-building pattern programs.
     1 0 1 0 1   
     0 1 0 1 0 1 
 
-### 8. Number Triangular
+### 9. Number Triangular
 
 | Code |
 | :--- |
@@ -135,7 +135,7 @@ A collection of logic-building pattern programs.
      4 4 4 4   
     5 5 5 5 5
 
-### 9. Number Increasing Pyramid
+### 10. Number Increasing Pyramid
 
 | Code |
 | :--- |
@@ -147,7 +147,7 @@ A collection of logic-building pattern programs.
     1 2 3 4 
     1 2 3 4 5 
 
-### 10. Number Increasing Reverse Pyramid
+### 11. Number Increasing Reverse Pyramid
 
 | Code |
 | :--- |
@@ -159,7 +159,7 @@ A collection of logic-building pattern programs.
     1 2       
     1  
 
-### 11. Number Changing Reverse Pyramid
+### 12. Number Changing Reverse Pyramid
 
 | Code |
 | :--- |
@@ -170,7 +170,7 @@ A collection of logic-building pattern programs.
     4  5  6 
     7  8  9 10 
 
-### 12. Square Fill Patterns_code
+### 13. Square Fill Patterns_code
 
 | Code |
 | :--- |
@@ -182,7 +182,7 @@ A collection of logic-building pattern programs.
     * * * * * 
     * * * * * 
 
-### 13. Square Hollow Pattern
+### 14. Square Hollow Pattern
 
 | Code |
 | :--- |
@@ -194,7 +194,7 @@ A collection of logic-building pattern programs.
     *       * 
     * * * * * 
 
-### 14. Right Half Pyramid
+### 15. Right Half Pyramid
 
 | Code |
 | :--- |
@@ -206,7 +206,7 @@ A collection of logic-building pattern programs.
     * * * *   
     * * * * * 
 
-### 15. Right Half Reverse Pyramid
+### 16. Right Half Reverse Pyramid
 
 | Code |
 | :--- |
@@ -218,7 +218,7 @@ A collection of logic-building pattern programs.
     * *       
     * 
 
-### 16. Left Half Pyramid
+### 17. Left Half Pyramid
 
 | Code |
 | :--- |
@@ -230,7 +230,7 @@ A collection of logic-building pattern programs.
       * * * * 
     * * * * * 
 
-### 17. Left_Half_Reverse_Pyramid
+### 18. Left_Half_Reverse_Pyramid
 
 | Code |
 | :--- |
@@ -242,7 +242,7 @@ A collection of logic-building pattern programs.
           * * 
             * 
 
-### 18. k Pattern
+### 19. k Pattern
 
 | Code |
 | :--- |
@@ -258,7 +258,7 @@ A collection of logic-building pattern programs.
     * * * *   
     * * * * *  
 
-### 19. Mirror Image Triangle Pattern
+### 20. Mirror Image Triangle Pattern
 
 | Code |
 | :--- |
@@ -273,5 +273,22 @@ A collection of logic-building pattern programs.
       3 4 5     
      2 3 4 5   
     1 2 3 4 5 
+
+### 21. Hollow Hourglass Pattern
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Hollow_Hourglass_Pattern.c) |
+
+    * * * * * 
+     *     * 
+      *   * 
+       * * 
+        * 
+       * * 
+      *   * 
+     *     * 
+    * * * * * 
+
 
 
