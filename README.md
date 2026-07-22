@@ -226,4 +226,20 @@ A collection of logic-building pattern programs.
           * * 
             * 
 
+### 18. k Pattern
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/k_pattern.c) |
+
+    * * * * * 
+    * * * *   
+    * * *     
+    * *       
+    *         
+    * *       
+    * * *     
+    * * * *   
+    * * * * *  
+
 
